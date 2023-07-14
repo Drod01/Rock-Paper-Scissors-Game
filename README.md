@@ -2,10 +2,11 @@
 
 This is a simple implementation of the classic rock-paper-scissors game in Python.
 
-#Description
+## Description
+
 The program allows the user to play multiple rounds of rock paper scissors against a computer opponent. It keeps track of the scores and declares a winner at the end.
 
-#Features
+## Features
 
 Play as many rounds as desired against a computer opponent
 
@@ -17,13 +18,13 @@ Score tracking across rounds
 
 Option to quit mid-game and view final scores
 
-#Getting Started
+## Getting Started
 
 Clone the repository
 
 Run python rps.py to start the game
 
-#Usage
+## Usage
 
 Enter rock, paper, or scissors when prompted
 
@@ -31,7 +32,7 @@ Input is case-insensitive
 
 Enter quit at any time to quit the game and view final scores
 
-##Example Run
+## Example Run
 
 Let's play Rock, Paper, Scissors! 
 
@@ -75,6 +76,6 @@ Player score: 2
 Computer score: 1
 
 
-License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
